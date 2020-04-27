@@ -16,9 +16,9 @@ Suportada versão 3 de Python
 Para instalar:
 
 ```console
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements-dev.txt
+python -m venv .venv  cria a virtualenv .venv
+.venv\Scripts\activate ativa a virtualenv
+pip install -r requirements-dev.txt instala as dependencias do projeto
 
 ```
 
