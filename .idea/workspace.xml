@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ab4571-5ae6-4ee1-a66b-69d23323a6d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libpythonpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libpythonpro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/github_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/modelos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_envio_para_base_de_usuarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_github_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,64 +44,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            <state relative-caret-position="140">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newlibpythonpro/github_api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/setup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="105" column="94" selection-start-line="105" selection-start-column="94" selection-end-line="105" selection-end-column="94" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newlibpythonpro/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.flake8">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements-dev.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="200">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newlibpythonpro/tests/test_exemplo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -107,14 +92,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/requirements-dev.txt" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/libpythonpro/__init__.py" />
         <option value="$PROJECT_DIR$/libpythonpro/github_api.py" />
         <option value="$PROJECT_DIR$/newlibpythonpro/__init__.py" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$USER_HOME$/.gitconfig" />
+        <option value="$PROJECT_DIR$/requirements-dev.txt" />
+        <option value="$PROJECT_DIR$/libpythonpro.egg-info/tests/teste_exemplo.py" />
+        <option value="$PROJECT_DIR$/newlibpythonpro/tests/test_exemplo.py" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -129,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,17 +129,34 @@
               <item name="newlibpythonpro" type="462c0819:PsiDirectoryNode" />
               <item name=".venv" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="newlibpythonpro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newlibpythonpro" type="462c0819:PsiDirectoryNode" />
+              <item name="libpythonpro.egg-info" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newlibpythonpro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newlibpythonpro" type="462c0819:PsiDirectoryNode" />
+              <item name="newlibpythonpro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newlibpythonpro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newlibpythonpro" type="462c0819:PsiDirectoryNode" />
+              <item name="newlibpythonpro" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/.gitconfig" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest in test_exemplo.py">
     <configuration name="github_api" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,8 +192,61 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in bin" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="libpythonpro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Adio-Philco\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_exemplo.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="libpythonpro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newlibpythonpro/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/newlibpythonpro/tests/test_exemplo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tests" type="tests" factoryName="py.test" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="libpythonpro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/newlibpythonpro/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/newlibpythonpro/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.github_api" />
+      <item itemvalue="Python tests.pytest in bin" />
+      <item itemvalue="Python tests.pytest in tests" />
+      <item itemvalue="Python tests.pytest in test_exemplo.py" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_exemplo.py" />
+        <item itemvalue="Python tests.pytest in tests" />
         <item itemvalue="Python.github_api" />
       </list>
     </recent_temporary>
@@ -324,8 +381,35 @@
       <option name="project" value="LOCAL" />
       <updated>1588115228710</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="newlibpython pro como exemplo&#10;close #5">
+      <created>1588194332734</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1588194332734</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_tests - 2020.05.11 at 18h 14m 01s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_exemplo_py - 2020.05.11 at 18h 14m 27s.xml">
+      <configuration name="pytest in test_exemplo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_exemplo_py - 2020.05.11 at 18h 14m 39s.xml">
+      <configuration name="pytest in test_exemplo.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="33" width="1346" height="688" extended-state="0" />
@@ -335,13 +419,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291367" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291367" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3291367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49923548" visible="true" weight="0.3291367" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49847096" weight="0.3291367" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291367" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49923548" weight="0.3291367" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49847096" weight="0.36690646" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50152904" side_tool="true" weight="0.3291367" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3291367" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -438,7 +522,8 @@
     <MESSAGE value="fazendo dawgrade lib requests" />
     <MESSAGE value="integrado com o pyup" />
     <MESSAGE value="alterada pasta libpythonpro para newlibpythonpro" />
-    <option name="LAST_COMMIT_MESSAGE" value="alterada pasta libpythonpro para newlibpythonpro" />
+    <MESSAGE value="newlibpython pro como exemplo&#10;close #5" />
+    <option name="LAST_COMMIT_MESSAGE" value="newlibpython pro como exemplo&#10;close #5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -469,8 +554,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.flake8">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/newlibpythonpro/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -479,10 +571,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements-dev.txt">
+    <entry file="file://$PROJECT_DIR$/.flake8">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.gitconfig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -493,20 +588,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/libpythonpro.egg-info/tests/teste_exemplo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        <state relative-caret-position="20">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
+    <entry file="file://$PROJECT_DIR$/requirements-dev.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="105" column="94" selection-start-line="105" selection-start-column="94" selection-end-line="105" selection-end-column="94" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="200">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newlibpythonpro/tests/test_exemplo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>

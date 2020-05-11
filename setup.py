@@ -101,11 +101,11 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
+PACKAGE = "newlibpythonpro"
 NAME = PACKAGE
-DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
-AUTHOR = "Renzo Nuccitelli"
-AUTHOR_EMAIL = "renzo@python.pro.br"
+DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools exemplo"
+AUTHOR = "Adioaldo Machado"
+AUTHOR_EMAIL = "adiowsy@gmail.com"
 URL = "https://github.com/adiomachado/newlibpythonpro"
 VERSION = __import__(PACKAGE).__version__
 
